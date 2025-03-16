@@ -1,0 +1,32 @@
+{
+  "button": {
+    "buttonSignUp": "Sign up",
+    "buttonLogin": "Log in",
+    "buttonContact": "Contact me"
+  },
+  "header": {
+    "siteTitle": "My Portfolio",
+    "navigationHome": "Home",
+    "navigationAbout": "About Me",
+    "navigationProjects": "Projects",
+    "navigationContact": "Contact"
+  },
+  "footer": {
+    "footerText": "Made with ❤️ by [Your Name]"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a passionate web developer focused on building beautiful and functional web applications."
+  },
+  "projects": {
+    "title": "My Projects",
+    "project1": {
+      "name": "Portfolio Website",
+      "description": "A personal portfolio built with Vue.js and deployed on GitHub Pages."
+    },
+    "project2": {
+      "name": "Task Manager App",
+      "description": "A task manager application built with Vue.js and Firebase."
+    }
+  }
+}
