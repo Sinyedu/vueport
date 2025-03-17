@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fantasy Festival",
+    "description": "A project built on Vue 3 and JavaScript.",
+    "technologies": ["Vue 3", "JavaScript"],
+    "repository": "https://github.com/Sinyedu/Fantasy-Festival"
+  },
+  {
+    "name": "This Portfolio",
+    "description": "A personal portfolio project.",
+    "technologies": ["Vue 3", "CSS", "JavaScript"],
+    "repository": "https://github.com/Sinyedu/vueport"
+  },
+  {
+    "name": "NexTask",
+    "description": "A project management tool built on React, TypeScript, and Tailwind.",
+    "technologies": ["React", "TypeScript", "Tailwind"],
+    "repository": "https://github.com/NimNim20/NexTask"
+  },
+  {
+    "name": "Webshop Landing Page",
+    "description": "A landing page for a webshop built in Svelte.",
+    "technologies": ["Svelte"],
+    "repository": "https://github.com/Sinyedu/TS-projectrepo"
+  }
+]

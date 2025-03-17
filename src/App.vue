@@ -1,22 +1,18 @@
 <template>
   <div>
-    <button>{{ content.button.buttonSignUp }}</button>
-    <header>
-      <h1>{{ content.header.siteTitle }}</h1>
-      <nav>
-        <ul>
-          <li>{{ content.header.navigationHome }}</li>
-          <li>{{ content.header.navigationAbout }}</li>
-        </ul>
-      </nav>
-    </header>
+    <Navbar />
+    <main>
+      <router-view></router-view>
+    </main>
   </div>
 </template>
 
 <script setup>
-import content from './assets/content.json';
+import Navbar from "../src/components/layout/Navbar.vue";
 </script>
 
 <style scoped>
-/* Your styles here */
+main {
+  padding: 2rem;
+}
 </style>
