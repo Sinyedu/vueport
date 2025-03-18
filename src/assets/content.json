@@ -4,6 +4,10 @@
     "buttonLogin": "Log in",
     "buttonContact": "Contact me"
   },
+  "welcome": {
+    "title": "Welcome to my Personal Portfolio",
+    "description": "I am a passionate web developer focused on building beautiful and functional web applications."
+  },
   "header": {
     "siteTitle": "My Portfolio",
     "navigationHome": "Home",
@@ -17,16 +21,5 @@
   "about": {
     "title": "About Me",
     "description": "I am a passionate web developer focused on building beautiful and functional web applications."
-  },
-  "projects": {
-    "title": "My Projects",
-    "project1": {
-      "name": "Portfolio Website",
-      "description": "A personal portfolio built with Vue.js and deployed on GitHub Pages."
-    },
-    "project2": {
-      "name": "Task Manager App",
-      "description": "A task manager application built with Vue.js and Firebase."
-    }
   }
 }
