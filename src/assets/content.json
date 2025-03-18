@@ -16,10 +16,20 @@
     "navigationContact": "Contact"
   },
   "footer": {
-    "footerText": "Made with ❤️ by [Your Name]"
+    "footerText": "Made with ❤️ by [Your Name]",
+    "footerCreated": "Created with Vue.js",
+    "footerSocial": "Follow me on social media",
+    "footerSocialLinks": {
+      "linkedin": "https://www.linkedin.com/in/simonnyblom/",
+      "github": "https://www.github.com/sinyedu"
+    }
   },
   "about": {
     "title": "About Me",
-    "description": "I am a passionate web developer focused on building beautiful and functional web applications."
+    "description": "I am a passionate web developer focused on building beautiful and functional web applications.",
+    "techStack": "My tech stack includes: HTML, CSS, JavaScript, Vue.js, Node.js, React, NextJS, Shadcn, Tailwind CSS and Bootstrap",
+    "experience": "I have experience working with: Frontend development, Web design and Web development",
+    "internship": "I've interned at Grumsen Development where my main focus was on their frontend development",
+    "internshipperiod": "Internship period: Jan 6. 2025 - Mar 14. 2025"
   }
 }
